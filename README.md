@@ -127,3 +127,10 @@ Key insights:
 - Neural models outperform tree-based methods in text classification.
 - Contextual embeddings (BERT) provide richer representations but similar accuracy to optimized TF-IDF pipelines.
 - Explainable AI tools like LIME are essential for model transparency in NLP applications.
+
+## Author
+Daniele Lepre
+
+Alice Anna Maria Brunazzi
+
+Ernesto Pedrazzini
